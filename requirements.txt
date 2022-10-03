@@ -8,3 +8,4 @@ nltk>=3.7
 imblearn>=0.0
 gunicorn==19.9.0
 openpyxl==3.0.10
+protobuf==3.19.4
